@@ -11,12 +11,12 @@ Some Features are :-
 Download through this link :-
 
 # Screenshots
-<img src="screenshots/welcome.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/signInScreen.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/registerScreen.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/codeScreen.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/joinScreen.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/videoChatScreen.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
+<img src="screenshots/welcome.png" alt="login image" align="left" width="200" hspace="20" vspace="20"  />
+<img src="screenshots/signInScreen.png" alt="login image" align="left" width="200" hspace="20" vspace="20"  />
+<img src="screenshots/registerScreen.png" alt="login image" align="left" width="200" hspace="20" vspace="20"  />
+<img src="screenshots/codeScreen.png" alt="login image" align="left" width="200" hspace="20" vspace="10"  />
+<img src="screenshots/joinScreen.png" alt="login image" align="left" width="200" hspace="20" vspace="20"  />
+<img src="screenshots/videoChatScreen.png" alt="login image" align="left" width="200" hspace="20" vspace="20"  />
 
 # Requirements 
 An Android device with Internet connection and a registered account.
