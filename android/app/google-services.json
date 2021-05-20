@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523195743843",
+    "project_id": "flutter-zoom-a76cf",
+    "storage_bucket": "flutter-zoom-a76cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523195743843:android:e4d6bd9d3d2fdb705e4256",
+        "android_client_info": {
+          "package_name": "com.example.flutter_zoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523195743843-afpiolhrplcanpr413ivi994kin7ijif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEk7nXCZm_YxWroZmn0rTFjH86VqYVKqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523195743843-afpiolhrplcanpr413ivi994kin7ijif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
