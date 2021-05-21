@@ -8,7 +8,7 @@ Some Features are :-
 - Additional features provided byt Jitsi Meet SDK
 
 # Download
-Download through this link :-
+Download through this link :-https://drive.google.com/file/d/1O2MJaAy_6S08SDme4ONwwYxJeBVLtwny/view?usp=sharing
 
 # Screenshots
 <img src="screenshots/welcome.png" alt="login image" align="left" width="250" hspace="20" vspace="20"  />
